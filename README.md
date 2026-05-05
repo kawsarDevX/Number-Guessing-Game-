@@ -1,2 +1,11 @@
-# Number-Guessing-Game-
-# Number Guessing Game 🎯  This is a simple Python project.  ## Features: - Random number guessing - User input - Loop and condition - Error handling (coming soon)  ## Author: Kawsar Hamid @kawsarDevX
+# Number-Guessing-Game-🎯   
+<br>
+This is a simple Python project.
+<br>
+## Features: - Random number guessing
+            <br>
+             - User input - Loop and condition 
+             <br>
+             - Error handling (coming soon)
+ <br>
+      ## Author: Kawsar Hamid @kawsarDevX
